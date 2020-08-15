@@ -1,4 +1,4 @@
-# hk3
+# homework3
 
 
 圖片在img資料夾裡檔名為"編號.png"
